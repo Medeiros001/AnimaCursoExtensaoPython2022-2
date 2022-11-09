@@ -12,3 +12,5 @@ print(f"Sua idade é {idade}")
 # E se eu quisesse mostrar o dobro da idade informada?
 dobro = idade * 2
 print("O dobro da idade informada é: {}".format(dobro))
+
+
